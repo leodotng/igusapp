@@ -1,7 +1,7 @@
 const db = require('./connection')
 
 function getUserUrl() {
-    return db('users').select();
+    return db('igusdatabase').select();
 }
 
 
