@@ -9,4 +9,5 @@ function getUserUrl() {
 
 module.exports = {
     getUserUrl,
+    getUserName
 }
